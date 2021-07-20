@@ -13,6 +13,6 @@ Use database "iris" in sklearn then analyze the data.
 
 2. *scatter :*  Have a quick glance at data. Use different colors to represent three varieties of iris, and then make 6 scatter plots to show the dot and regression line with 2 in pairs.
 
-3. *training :*  Choose K-Nearest-Neighbor as the algorithm then start training and predicting, after compare test data and predicted data, we will get the **preliminary** accuracy rate of our prediction.
+3. *training :*  Choose K-Nearest-Neighbor as the algorithm then start training and predicting. After comparing the test data and predicted data, we will get the **preliminary** accuracy rate of our prediction.
 
-4. *bestParameter :*   After parameter tuning by using GridSearchCV, we will find the best parameter and estimator which is suggested by algorithm. Then, we could use new parameter for **advanced** prediction.
+4. *bestParameter :*   After parameter tuning by using GridSearchCV, we will find the best parameter and estimator which are suggested by the algorithm. Then, we can use the new parameter for **advanced** prediction.
